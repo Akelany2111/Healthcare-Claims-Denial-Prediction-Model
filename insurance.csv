@@ -1,0 +1,11 @@
+insurance_id,payer_name,payer_type
+1,Blue Shield,Commercial
+2,Aetna,Commercial
+3,Cigna,Commercial
+4,UnitedHealthcare,Commercial
+5,Anthem,Commercial
+6,Medicare,Government
+7,Medicaid,Government
+8,Humana,Commercial
+9,Molina,Government
+10,Health Net,Commercial
