@@ -64,3 +64,5 @@ denial risk monitoring
 claims prioritization
 operational workflow improvement
 revenue protection
+
+IMPOTANT NOTE " After removing target leakage, the model’s feature importance became much more operationally meaningful. Variables such as billed amount, days to submit, service timing, claim profile, and payer characteristics emerged as the primary drivers of denial risk. However, the current model was not yet effective at correctly classifying denied claims, as shown by the confusion matrix and ROC AUC. This suggests that either the synthetic dataset does not yet contain strong enough denial patterns, or that further feature engineering and class imbalance handling are needed to make the model operationally useful."
